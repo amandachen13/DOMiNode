@@ -82,7 +82,7 @@ A lightweight JavaScript library for DOM traversal and manipulation inspired by 
 #### `$l.ajax(options)`
 
 * receives an options object or uses defaults object
-* make an HTTP request and delivers the proper response to the success/error callback
+* makes an HTTP request and delivers the proper response to the success/error callback
 
 #### `$l.extend(defaultObj, ...objects)`
 
